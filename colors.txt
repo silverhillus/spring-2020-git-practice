@@ -7,3 +7,5 @@ white
 purple
 khaki
 turquoise
+yellow
+indigo

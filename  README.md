@@ -1,1 +1,1 @@
-## Thi is a git project practice
+## This is a git project practice

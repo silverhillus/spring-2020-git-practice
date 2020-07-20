@@ -4,3 +4,6 @@ BMW
 Audi
 Tesla
 Nissan
+Mercedes
+Kia
+Bentley

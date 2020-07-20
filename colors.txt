@@ -9,3 +9,5 @@ khaki
 turquoise
 yellow
 indigo
+grey
+magenta

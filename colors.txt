@@ -5,3 +5,4 @@ blue
 brown
 white
 purple
+khaki

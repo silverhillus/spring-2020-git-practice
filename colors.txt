@@ -2,9 +2,6 @@ red
 pink
 green
 blue
-<<<<<<< HEAD
 brown
 white
-=======
 purple
->>>>>>> 3cc59cdf25176c46406a0d0360fbe54e2701a572

@@ -6,3 +6,4 @@ brown
 white
 purple
 khaki
+turquoise
